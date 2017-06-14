@@ -15,8 +15,10 @@ Weixin Sogou Search Engine Result Pages
 档名含时间戳
 
 ## wechat_2017-06-14.tsv
-[wechat_2017-06-14.tsv](wechat_2017-06-14.tsv)，tsv下载点
+[wechat_2017-06-14.tsv](wechat_2017-06-14.tsv)，[tsv下载点](https://github.com/hanteng/weixin_sogou_SERP/raw/master/wechat_2017-06-14.tsv)
+
 每一搜索关键字找10页内容，每页约10项结果
+
 list_queries = ['瑞士', '德国', '朗读者', '古代文学', '从化']
 
 
