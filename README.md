@@ -6,13 +6,16 @@ Weixin Sogou Search Engine Result Pages
 
 # 栏位说明
 
-|index|ranking|query|page|title|snippet|account|url|account_url|
-|索引|排名|搜索关键字|页|标题|文段|微信帐户|微信文章url|微信帐户_url|
+
+| index   | ranking   | query   | page   | title   | snippet   | account   | url       | account_url   |
+|---------|-----------|---------|--------|---------|-----------|-----------|-----------|---------------|
+| 索引 | 排名 | 搜索关键字 | 页 | 标题 | 文段 | 微信帐户 | 微信文章url | 微信帐户_url | 
 
 # 档案说明
 档名含时间戳
 
 ## wechat_2017-06-14.tsv
+[wechat_2017-06-14.tsv](wechat_2017-06-14.tsv)，tsv下载点
 每一搜索关键字找10页内容，每页约10项结果
 list_queries = ['瑞士', '德国', '朗读者', '古代文学', '从化']
 
